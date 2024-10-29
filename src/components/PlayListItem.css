@@ -1,0 +1,21 @@
+/* PlayListItem.css */
+.playlist-item {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+    cursor: pointer;
+    border-bottom: 1px solid #333;
+  }
+  
+  .playlist-item img {
+    width: 100px;
+    height: 60px;
+    margin-right: 0.5rem;
+  }
+  
+  .playlist-item h3 {
+    color: #ffffff;
+    font-size: 0.9rem;
+    margin: 0;
+  }
+  

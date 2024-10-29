@@ -1,0 +1,19 @@
+/* VideoPlayerContainer.css */
+.video-player-container {
+    display: flex;
+    flex-direction: row;
+    padding: 2rem;
+    max-width: 1000px;
+    margin: 0 auto;
+    color: #ffffff;
+  }
+  
+  .main-player {
+    flex: 2;
+    margin-right: 1rem;
+  }
+  
+  .playlist-aside {
+    flex: 1;
+  }
+  
